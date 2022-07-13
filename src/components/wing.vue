@@ -7,9 +7,9 @@
 </template>
 
 <script>
-import { Container, Draggable } from "vue-dndrop";
+
 export default {
-  components: { Container, Draggable },
+
 props:{
   side:{},
   dots:{}

@@ -27,9 +27,7 @@ import Mom from "./mom.vue";
 import Wing from "./wing.vue";
 export default {
   name: "Groups",
-
   components: { Child, Wing, Mom },
-
   data() {
     return {
       moving: null,
